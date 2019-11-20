@@ -17,18 +17,22 @@ public class Soal3 {
             }
             switch (pilih) {
                 case 1:
-                    System.out.print("Masukan ukuran matrix: ");
+                    System.out.print("Masukan banyaknya kelompok sesuatu: ");
 
-                    int ukuran = scanner.nextInt();
-                    nilai = new String[ukuran][ukuran];
-                    for (int i = 0; i < ukuran; i++) {
-                        for (int j = 0; j < ukuran; j++) {
+                    int baris = scanner.nextInt();
+                    System.out.print("Masukan banyaknya: ");
+                    int kolom = scanner.nextInt();
+                    nilai = new String[baris][kolom];
+                    for (int i = 0; i < baris; i++) {
+                        for (int j = 0; j < kolom; j++) {
                             System.out.print("[" + i + "," + j + "]: ");
-                            nilai[i][j] = scanner.nextLine();
+                            nilai[i][j] = scanner.next();
                         }
+                        System.out.println();
                     }
                     break;
                 case 2:
+                    System.out.println();
                     System.out.println("isi matriks sesuatu");
                     for (String array1D[] : nilai) {
                         for (String arr : array1D) {
@@ -36,11 +40,12 @@ public class Soal3 {
                         }
                         System.out.println();
                     }
-                    int total = 0;
-                    System.out.println("Hasil pencarian: ");
+
+                    System.out.println("Pencarian: ");
                     for (int i = 0; i < nilai.length; i++) {
-                        System.out.print("Masukan nama: ");
-                        String cari = scanner.nextLine();
+                        int total = 0;
+                        System.out.print("Masukan nama ke-" + (i + 1) + ": ");
+                        String cari = scanner.next();
                         int j;
                         for (j = 0; j < nilai[0].length; j++) {
                             if (nilai[i][j].equals(cari)) {
@@ -51,7 +56,6 @@ public class Soal3 {
                     }
                     break;
             }
-            System.out.println();
             System.out.println();
         }
     }
