@@ -16,5 +16,8 @@ public class ContohVariabel {
         System.out.println(String.format("Saya beripk %s, dengan tinggi badan %s", $ipk, tinggi));
 
         System.out.println(String.format("Saya %s bapak dan ibu saya setulus hati",'\u2764'));
+        System.out.println(String.format("Simbol %s untuk copyright",'\u00A9'));
+        System.out.println(String.format("Simbol %s untuk trademark",'\u2122'));
+        System.out.println(String.format("Simbol %s untuk register",'\u00AE'));
     }
 }

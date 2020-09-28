@@ -5,11 +5,13 @@ public class Looping1 {
 //        int i;
 //        for (i = 0; i <=6; ++i) {
 //        }
-//        System.out.print(i);
+//        System.out.print(i);//hasilnya 7
+
 //        for (int i = 0; i < 10; i++) {
-//            if (i%2==0)
-//                System.out.print(i+" ");
+//            if (i % 2 == 0)
+//                System.out.print(i + " ");//hasilnya 0 2 4 6 8
 //        }
+
 //        int temp = 0;
 //        for (int i = 0, j = 0; i < 10; i++) {
 //            if (i == 1 || i == 7) {
@@ -19,7 +21,7 @@ public class Looping1 {
 //                temp = j;
 //            }
 //        }
-//        System.out.println(temp);
+//        System.out.println(temp);//hasilnya 12
 
 //        int x = 8;
 //        while (x <= 20) {
@@ -28,7 +30,7 @@ public class Looping1 {
 //            }
 //            x++;
 //        }
-//        System.out.println(x);
+//        System.out.println(x);//hasilnya 21
 
 //        int star = 0;
 //        do {
@@ -40,6 +42,12 @@ public class Looping1 {
 //            star++;
 //            System.out.println();
 //        } while (star != 5);
+//        hasilnya
+            //******
+            //******
+            //******
+            //******
+            //******
 
 //        int row = 0;
 //        while (true) {
@@ -56,6 +64,14 @@ public class Looping1 {
 //            System.out.println();
 //            row++;
 //        }
+//        hasilnya
+            //#&#&#
+            //#&#&#
+            //#&#&#
+            //#&#&#
+            //#&#&#
+            //#&#&#
+            //#&#&#
 
 //        char nama[] = {'P', 'O', 'L', 'I', 'N', 'E', 'M', 'A'};
 //        int index = 0;
@@ -63,7 +79,7 @@ public class Looping1 {
 //            if (index++ > 2) {
 //                continue;
 //            }
-//            System.out.print(nm);
+//            System.out.print(nm);//POL
 //        }
 
 //        int result = 0;
@@ -73,26 +89,28 @@ public class Looping1 {
 //                ++result;
 //            }
 //        }
-//        System.out.println("Hasilnya adalah " + result);
+//        System.out.println("Hasilnya adalah " + result);//6
 
 //        int hasil = 0;
 //        int nilai[] = {70, 34, 65};
 //        for (int i = 0; i < nilai.length; i++) {
 //            hasil += nilai[i];
 //        }
-//        System.out.println(hasil / nilai.length);
+//        System.out.println(hasil / nilai.length);//56
 
-        int angka[][] = {
-                {1, 2, 4, 7},
-                {9, 7, 4, 7}
-        };
-        for (int i = 0; i < angka.length; i++) {
-            for (int j = 0; j < angka[0].length; j++) {
-                if (j < 5) {
-                    System.out.print(j + " ");
-                }
-            }
-            System.out.println();
-        }
+//        int angka[][] = {
+//                {1, 2, 4, 7},
+//                {9, 7, 4, 7}
+//        };
+//        for (int i = 0; i < angka.length; i++) {
+//            for (int j = 0; j < angka[0].length; j++) {
+//                if (j < 5) {
+//                    System.out.print(j + " ");
+//                }
+//            }
+//            System.out.println();
+//        }
+//        0 1 2 3
+//        0 1 2 3
     }
 }
