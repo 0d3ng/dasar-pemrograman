@@ -1,0 +1,310 @@
+Berikut ini adalah pernyataan yang paling tepat mengenai algoritma adalah?
+A. Sebuah langkah-langkah yang terurut untuk menyelesaikan sebuah permasalahan
+B. Sebuah intruksi dengan tujuan memberikan perintah tertentu pada sebuah komputer
+C. Sebuah langkah-langkah logis secara berurutan secara sistematis untuk menyelesaikan permasalahan.
+D. Cara kerja sebuah computer untuk menyelesaikan sebuah permasalah pada dunia nyata.
+E. Representasi bahasa manusia untuk memerintahkan computer pada tugas atau pekerjaan tertentu.
+ANSWER: C
+
+Bagimana caranya kita untuk menilai sebuah logika yang tepat?
+A. Hasil sesuai yang diharapkan
+B. Dapat menyelesaikan sebuah permasalahan yang rumit
+C. Dapat dibuktikan dengan kasus yang sejenis atau relevan
+D. Algoritma yang dibuat boros memori
+E. Adaptif dengan kasus yang sejenis
+ANSWER: A
+
+Dari pernyataan di bawah ini yang merupakan struktur dasar algoritma?
+A. Struktur runtutan, struktur sequensial, dan struktur pemilihan
+B. Struktur pemilihan, struktur perulangan, dan struktur sequensial.
+C. Struktur sequensial, struktur parallel, dan struktur perulangan
+D. Struktur berurut, struktur sequensial, dan struktur parallel.
+E. Struktur berurut, struktur parallel dan struktur pemilihan.
+ANSWER: B
+
+Berikut ini yang merupakan langkah-langkah untuk membuat sebuah algorima adalah
+1.	Tambahkan data lain, jika dibutuhkan
+2.	Tentukan masalah
+3.	Tentukan kondisi awal
+4.	Tentukan kondisi akhir
+5.	Gunakan stuktur dasar algoritma sesuai dengan kasusnya.
+Buatlah urutan yang tepat sesuai dengan pernyataan-pernyataan di atas
+A. 1-2-3-4-5
+B. 5-1-4-3-2
+C. 2-3-4-1-5
+D. 2-3-4-5-1
+E. 2-3-1-5-4
+ANSWER: C
+
+Buatlah sebuah algoritma untuk menghitung sebuah lama perjalanan(menit), yang ditempuh dengan kecepatan(km/jam) dan jarak(km) tertentu.
+Input: kecepatan dan jarak
+Output: lama perjalanan
+Langkah-langkahnya ditujukkan seperti berikut
+1.	Masukan lama perjalanan, jarak, dan kecepatan
+2.	Masukan jarak dan kecepatan
+3.	Hitung lama perjalan = jarak/kecepatan
+4.	Ubah satuan jarak menjadi Km
+5.	Ubah satuan kecepatan menjadi Km/Jam
+6.	Ubah lama perjalanan menjadi menit
+7.	Tampilkan lama perjalanan
+Buatlah urutan yang tepat sesuai dengan pernyataan-pernyataan di atas
+A. 1-2-3-4-5-6-7
+B. 7-2-3-4-5-6
+C. 2-3-4-5-6-7
+D. 1-4-5-3-6-7
+E. 2-4-5-3-6-7
+ANSWER: E
+
+Setiap pagi lena mengikuti flowchart berikut ini untuk membantunya berpakaian.
+Menurut flowchart,  kombinasi pakaian dibawah ini yang tidak mungkin?
+A. sunglasses – jacket
+B. Shorts – raincoat
+C. Shorts – Sunglasses
+D. Sweater – shorts
+E. tidak ada jawaban yang benar
+ANSWER: D
+
+Terdapat seekor berang-berang yang memiliki ketentuan tentang pakaian yang dikenakan. Aturan tersebut sesuai dengan
+gambar berikut ini:
+Sesuai dengan aturan di atas. Manakah tupai di bawah ini yang memakai pakaian tidak sesuai dengan ketentuan?
+ANSWER: B
+
+Deni baru saja menemukan kesalahan konyol dalam membuat sepotong panjang teks alfanumerik. Semua angka 1 harusnya 11
+dan semua angka 11 harusnya 1.
+Untungnya, deni pintar dan Deni memiliki editor yang memungkinkan saya untuk mengganti urutan karakter dengan urutan lain.
+Manakah algortima dibawah ini yang dapat mengatasi masalah Deni
+A. Ganti semua angka 11 dengan angka 1 dan kemudian ganti semua angka 1 dengan 11.
+B. Ganti semua angka 1 dengan angka 11 dan kemudian ganti semua angka 11 dengan 1
+C. Ganti semua angka 11 dengan $ dan kemudian ganti angka 1 dengan 11 selanjutnya semua $ diganti dengan 1
+D. Ganti semua angka 1 dengan $ dan kemudian ganti $ dengan 11 selanjutnya semua angka 11 diganti dengan angka 1
+E. Ganti semua angka 11 dengan $ dan kemudian ganti $ dengan 1 selanjutnya semua angka 1 diganti dengan angka 11
+ANSWER: C
+
+Keluarga Mimi sedang mempersiapkan acara Festival Makanan, dan mereka ingin memanggang kue kering; Momo akan membuat kue.
+Dia sangat memperhatikan urutan membuat kue dengan memasukkan bahan kue dengan urutan yang benar. Ketika dia berjalan ke
+taman, dia melihat ada secarik kertas pada setiap bahan kue yang akan digunakan. Gambar pada kertas menjelaskan bahan kue
+yang harus ditambahkan pada urutan berikutnya. Hanya ada satu bahan kue yang tidak memiliki kertas. Ilustrasi taman
+seperti di bawah ini:
+Bahan kue manakah yang harus dimasukkan pertama kali?
+ANSWER: B
+
+Pak oyo ingin meletakkan 5 botol di atas rak. Ia ingin agar botol-botol itu dibariskan dari yang paling kecil bagian
+tengahnya hingga yang terbesar dari kiri ke kanan. Susunlah urutan itu dengan menggeret botol-botol ke atas rak.
+Susunlah botol-botol berikut ini di atas rak, terurut menurut bagian tengah (atau leher) dari botol, mulai dari yang
+paling kecil ke paling besar.
+A. Hijau, Biru, Kuning, Merah, Pink
+B. Hijau, Kuning, Biru, Merah, Pink
+C. Hijau, Biru, Kuning, Pink, Merah
+D. Kuning, Biru, Hijau, Merah, Pink
+E. Pink, Biru, Kuning, Merah, Hijau
+ANSWER: A
+
+Pernyataan di bawah ini tentang tipe data char, yang salah adalah
+A. Tipe data char digunakan untuk menampung sebuah karakter atau symbol.
+B. Untuk memberikan nilai awal menggunakan petik satu, "'".
+C. Panjang tipe data 16 bit
+D. Panjang tipe data 8 bit
+E. Dapat dicasting ke dalam tipe data byte atau int
+ANSWER: D
+
+Manakah deklarasi di bawah ini yang ketika dilakukan kompilasi error?
+A. int $umur
+B. byte huruf = (byte)'A'
+C. short a, b, c = 0
+D. char jeKel = 'L'
+E. float phi = 3,14F
+ANSWER: E
+
+Hasil dari 125 % 14545900 + 5 adalah
+A. 5
+B. 130
+C. 14545905
+D. 14545780
+E.14546030
+ANSWER: B
+
+Berdasarkan gambar dibawah ini , yang menunjukkan simbol dari proses adalah...
+A. 1
+B. 2
+C. 3
+D. 4
+E. 5
+ANSWER: D
+
+Contoh casting yang benar di bawah ini adalah
+A. byte refund = 0xA; short debit = refund
+B. int jmlAnak = 25F; byte temp = jmlAnak
+C. int gaji = 1200000.123; double thp = (int) gaji
+D. long massa_jenis = 3.1234L; double berat_jenis = massa_jenis
+E. char status_nikah = 'JOMBLO'
+ANSWER: A
+
+Berikut ini merupakan aturan dalam penulisan variabel, kecuali ...
+A. Nama variabel tidak boleh mengandung karakter khusus
+B. Nama variabel harus diawali dengan huruf
+C. Nama variabel tidak boleh menggunakan spasi
+D. Nama variabel harus diawali dengan angka
+E. Nama variabel tidak boleh menggunakan kata kunci
+ANSWER: D
+
+Tipe data yang sesuai untuk menjelaskan data nama pengajar adalah menggunakan tipe data ...
+A. int
+B. string
+C. String
+D. char
+E. Date time
+ANSWER: C
+
+Di dalam flowchart, symbol untuk permulaan (start) atau akhir (stop) adalah symbol ..., sedangkan symbol yang digunakan
+untuk menghubungkan antara symbol yang dengan yang lain adalah symbol ...
+A. Terminator, processing
+B. Terminator, flow direction
+C. Processing, flow direction
+D. Input-output, processing
+E. Input-output, flow direction
+ANSWER: B
+
+Bentuk belah ketupat pada flowchart merupakan symbol
+A. Flow direction
+B. Terminator
+C. Processing
+D. Decision
+E. Input-output
+ANSWER: D
+
+Apabila a=3, b=7, maka jika diberikan instruksi a=b; b=a akan menghasilkan ...
+A. a=7, b=0
+B. a=0, b=3
+C. a=7, b=3
+D. a=7, b=7
+E. a=3, b=3
+ANSWER: D
+
+Apabila X=10; Y=Y+5; Y=X. Maka nilai X dan Y masing-masing adalah:
+A. 0 dan 15
+B. 15 dan 0
+C. 0 dan 10
+D. 10 dan 10
+E. 15 dan 15
+ANSWER: E
+
+Berikut ini pemberian nama variabel yang benar adalah ...
+A. nama siswa
+B. Nama Siswa
+C. %nilaisiswa
+D. nilai_siswa
+E. &nilaisiswa
+ANSWER: D
+
+Apakah fungsi dari kegunaan keyword break dalam sebuah switch?
+A. Break harus ada di dalam keyword case.
+B. Break diberikan ketika perintah terdiri lebih dari 1.
+C. Break digunakan untuk mengakhiri sebuah case
+D. Break dimanfaat sebagai kondisi yang tidak terpenuhi.
+E. Ketika tidak diberi break pada sebuah blok case, maka case setelahnya akan dijalankan juga.
+ANSWER: C
+
+Perhatikan potongan program dibawah ini!
+Jika potongan program diatas diubah dengan menggunakan operator ternary maka hasilnya adalah ...
+A. System.out.println(nilai > 75 ? ”Lulus” : “Tidak lulus”)
+B. System.out.println(nilai > 75 : ”Lulus” : “Tidak lulus”)
+C. System.out.println(nilai > 75 ; ”Lulus” : “Tidak lulus”)
+D. System.out.println(nilai > 75 : ”Lulus” ; “Tidak lulus”)
+E. System.out.println(nilai > 75 : ”Lulus” ? “Tidak lulus”)
+ANSWER: A
+
+Berikut ini merupakan pernyataan yang benar mengenai pemilihan bersarang, kecuali …
+A. Kondiis yang akan dicek pertama kali adalah kondisi IF yang berada di posisi terluar
+B. Tidak ada batasan banyaknya tingkat/level kondisi IF
+C. Penggunaan ekspresi logikan pada kondisi IF akan diproses dari kiri ke kanan
+D. Pemilihan bersarang bisa digunakan pada IF-ELSE maupun SWITCH-CASE
+E. Minimal terdapat sebuah IF di dalam IF yang lain
+ANSWER: D
+
+Pada pengambilan keputusan fungsi logika IF-ELSE dua kondisi, pernyataan di bawah ini yang sesuai yaitu …
+A. Semua pernyataan bernilai FALSE
+B. Semua pernyataan bernilai TRUE
+C. Satu pernyataan bernilai TRUE dan pernyataan lain bernilai FALSE
+D. Tidak ada pernyataan bernilai TRUE atau FALSE
+E. Semua jawaban salah
+ANSWER: C
+
+Apakah fungsi dari kegunaan keyword break dalam sebuah perulangan?
+A. Untuk menghentikan sebuah perintah pada looping
+B. Untuk keluar dari sebuah blok looping
+C. Untuk melompat ke perintah yang selanjutnya pada sebuah looping
+D. Agar sebuah perintah pada looping dijalankan
+E. Dapat digunakan selain di dalam blok looping
+ANSWER: B
+
+Pernyataan yang paling tepat mengenai perulangan do-while adalah
+a. Perulangan do-while tidak memiliki inisialisasi variable, operator kondisi, dan operator increment atau decrement.
+B. Do-while melakukan pengecekan di akhir perintah
+C. Memungkinkan sebuah kondisi tidak dijalankan sama sekali.
+D. Lebih susah daripada perulangan for untuk menyelesaikan masalah yang sama.
+E. Hanya mengandung inisialisasi variable saja.
+ANSWER: B
+
+Struktur perulangan atau loop digunakan untuk …
+A. Mengulang suatu blok perintah sampai kondisi terakhir
+B. Mengulang suatu blok perintah sampai kondisi tertentu
+C. Mengembalikan suatu blok perintah sampai kondisi tertentu
+D. Mengulang suatu blok perintah sampai kondisi kedua
+E. Mengulang dua blok perintah sampai kondisi terakhir
+ANSWER: B
+
+Struktur apa yang digunakan untuk melakukan perulangan terus menerus selama kondisi memenuhi syarat atau bernilai true ...
+A. Do until loop
+B. Do while loop
+C. Do-loop until
+D. Do-loop while
+E. While-end while
+ANSWER: B
+
+Apakah output dari baris kode program di bawah ini?
+for (int d = 0; d < 4; d++)
+{
+System.out.print(d + “ “);
+}
+System.out.println();
+A. 0 1 2 3 4
+B. 0 1 2 3
+C. 1 2 3 4
+D. 1 2 3
+E. d d d d
+ANSWER: B
+
+Apa keluaran dari kode
+public class soal13 {
+       public static void main (String[] args) {
+	int i,x;
+	x=0;
+	for (i=1; i<=5; i++) {
+	        if (i==4)
+	    	break;
+	        x = x+i;
+	}
+System.out.print(x);
+       }
+}
+A. 4
+B. 5
+C. 6
+D. 7
+E. 8
+ANSWER: C
+
+Apa output dari baris kode program di bawah ini?
+public class soal14 {
+       public static void main (String[] args) {
+	int total=0;
+	for (int x = 1; x <=4; x+=2) {
+total += x;
+	}
+System.out.println(total);
+A. 2
+B. 17
+C. 16
+D. 18
+E. 10
+ANSWER: C
